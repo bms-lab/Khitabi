@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" fill="none">
+  <!-- Background -->
+  <rect width="1200" height="630" fill="#0F5C4D"/>
+  
+  <!-- Subtle decorative Islamic geometric pattern lines in Gold -->
+  <g opacity="0.08" stroke="#C8A24A" stroke-width="2">
+    <circle cx="600" cy="315" r="450"/>
+    <circle cx="600" cy="315" r="320"/>
+    <rect x="250" y="-35" width="700" height="700" rx="40" transform="rotate(45 600 315)"/>
+  </g>
+
+  <!-- Accent top bar -->
+  <rect width="1200" height="12" fill="#C8A24A"/>
+
+  <!-- Center Card -->
+  <rect x="120" y="100" width="960" height="430" rx="24" fill="#FAF8F3"/>
+  <rect x="120" y="100" width="960" height="430" rx="24" stroke="#C8A24A" stroke-width="3" opacity="0.4"/>
+
+  <!-- Logo Icon in Center -->
+  <g transform="translate(540, 140)">
+    <rect width="120" height="120" rx="28" fill="#0F5C4D"/>
+    <path d="M40 38H72L86 52V88H40V38Z" fill="#FAF8F3" fill-opacity="0.18"/>
+    <path d="M72 38V52H86" stroke="#C8A24A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M48 68C54 60 66 60 72 66C68 76 54 78 48 74" stroke="#FAF8F3" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="60" cy="50" r="4.5" fill="#C8A24A"/>
+  </g>
+
+  <!-- Title: خطابي -->
+  <text x="600" y="320" text-anchor="middle" font-family="'IBM Plex Sans Arabic', sans-serif" font-size="58" font-weight="800" fill="#0F5C4D">خطابي — KHITABI</text>
+
+  <!-- Tagline -->
+  <text x="600" y="380" text-anchor="middle" font-family="'IBM Plex Sans Arabic', sans-serif" font-size="28" font-weight="600" fill="#1C1C1C">اكتب خطابك الرسمي في دقيقة واحدة — مجاناً وبدون تسجيل</text>
+
+  <!-- Feature badges -->
+  <g transform="translate(240, 430)">
+    <rect x="0" y="0" width="220" height="48" rx="8" fill="#0F5C4D" fill-opacity="0.08"/>
+    <text x="110" y="31" text-anchor="middle" font-family="'IBM Plex Sans Arabic', sans-serif" font-size="17" font-weight="600" fill="#0F5C4D">✓ نماذج وورد Word جاهزة</text>
+
+    <rect x="250" y="0" width="220" height="48" rx="8" fill="#0F5C4D" fill-opacity="0.08"/>
+    <text x="360" y="31" text-anchor="middle" font-family="'IBM Plex Sans Arabic', sans-serif" font-size="17" font-weight="600" fill="#0F5C4D">✓ طباعة وتصدير PDF فوري</text>
+
+    <rect x="500" y="0" width="220" height="48" rx="8" fill="#0F5C4D" fill-opacity="0.08"/>
+    <text x="610" y="31" text-anchor="middle" font-family="'IBM Plex Sans Arabic', sans-serif" font-size="17" font-weight="600" fill="#0F5C4D">✓ خصوصية تامة 100%</text>
+  </g>
+</svg>

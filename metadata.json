@@ -1,0 +1,6 @@
+{
+  "name": "Khitabi - خطابي لنماذج الخطابات الرسمية",
+  "description": "اكتب خطابك الرسمي في دقيقة واحدة — نماذج خطابات واستقالة وإجازات جاهزة للطباعة والتنزيل مجاناً بصيغة Word و PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

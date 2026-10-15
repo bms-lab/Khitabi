@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect width="48" height="48" rx="12" fill="#0F5C4D"/>
+  <!-- Folded official letter emblem forming Arabic letter Kha (خ) -->
+  <path d="M14 15C14 13.8954 14.8954 13 16 13H30L36 19V33C36 34.1046 35.1046 35 34 35H16C14.8954 35 14 34.1046 14 33V15Z" fill="#FAF8F3" fill-opacity="0.12"/>
+  <path d="M30 13V19H36" stroke="#C8A24A" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Elegant Calligraphic Arabic 'Kha' خ curve in Accent Gold -->
+  <path d="M17 26C20 22 28 22 31 25C29 31 21 32 17 29.5" stroke="#FAF8F3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Kha dot above -->
+  <circle cx="24" cy="18" r="2.2" fill="#C8A24A"/>
+  <!-- Document subtle lines -->
+  <line x1="20" y1="33" x2="28" y2="33" stroke="#C8A24A" stroke-width="2" stroke-linecap="round"/>
+</svg>
